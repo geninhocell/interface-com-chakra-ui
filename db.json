@@ -1,0 +1,958 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "name": "África",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005), representando cerca de um sétimo da população mundial, e 54 países independentes.",
+      "info": "Viva uma aventura inesquecível.",
+      "url": "/images/carousel/africa.svg",
+      "banner_url": "/images/banner-continents/africa.svg",
+      "number_countries": 54,
+      "number_languages": 2092,
+      "cities_in_the_top_100": [
+        {
+          "id": 1,
+          "name": "Egito",
+          "flag_url": "/images/flags/184-egypt.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Hurgada",
+              "banner_url": "/images/banner-cities/hurgada.jpeg",
+              "ranking": 82
+            },
+            {
+              "id": 2,
+              "name": "Cairo",
+              "banner_url": "/images/banner-cities/cairo.jpeg",
+              "ranking": 42
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "África do Sul",
+          "flag_url": "/images/flags/188-south africa.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Joanesburgo",
+              "banner_url": "/images/banner-cities/joanesburgo.jpeg",
+              "ranking": 54
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Marrocos",
+          "flag_url": "/images/flags/182-morocco.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Marrakech",
+              "banner_url": "/images/banner-cities/marrakech.jpeg",
+              "ranking": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "América do norte",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+      "info": "Destino certo para grandes emoções.",
+      "url": "/images/carousel/america-norte.svg",
+      "banner_url": "/images/banner-continents/america-norte.svg",
+      "number_countries": 4,
+      "number_languages": 1061,
+      "cities_in_the_top_100": [
+        {
+          "id": 1,
+          "name": "Estados Unidos",
+          "flag_url": "/images/flags/186-united states.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Orlando",
+              "banner_url": "/images/banner-cities/orlando.jpeg",
+              "ranking": 44
+            },
+            {
+              "id": 2,
+              "name": "Las Vegas",
+              "banner_url": "/images/banner-cities/las-vegas.jpeg",
+              "ranking": 34
+            },
+            {
+              "id": 3,
+              "name": "Los Angeles",
+              "banner_url": "/images/banner-cities/los-angeles.jpeg",
+              "ranking": 29
+            },
+            {
+              "id": 4,
+              "name": "Miami",
+              "banner_url": "/images/banner-cities/miami.jpeg",
+              "ranking": 27
+            },
+            {
+              "id": 5,
+              "name": "Nova York",
+              "banner_url": "/images/banner-cities/nova-nork.jpeg",
+              "ranking": 8
+            },
+            {
+              "id": 6,
+              "name": "São Francisco",
+              "banner_url": "/images/banner-cities/sao-francisco.jpeg",
+              "ranking": 72
+            },
+            {
+              "id": 7,
+              "name": "Honolulu",
+              "banner_url": "/images/banner-cities/honolulu.jpeg",
+              "ranking": 81
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Canadá",
+          "flag_url": "/images/flags/066-canada.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Vancouver",
+              "banner_url": "/images/banner-cities/vancouver.jpeg",
+              "ranking": 69
+            },
+            {
+              "id": 2,
+              "name": "Toronto",
+              "banner_url": "/images/banner-cities/toronto.jpeg",
+              "ranking": 53
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "México",
+          "flag_url": "/images/flags/033-mexico.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Cancún",
+              "banner_url": "/images/banner-cities/cancun.jpeg",
+              "ranking": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "América do sul",
+      "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake. Tem uma extensão de 7 500 km desde o mar do Caribe até ao cabo Horn, ponto extremo sul do continente. Os outros pontos extremos da América do Sul são: ao norte a Punta Gallinas, na Colômbia, ao leste a Ponta do Seixas, no Brasil, e a oeste a Punta Pariñas, no Peru. Seus limites naturais são: ao norte com o mar do Caribe; a leste, nordeste e sudeste com o oceano Atlântico; e a oeste com o oceano Pacífico.[6] O Brasil representa atualmente a metade da população e produto econômico desta região.",
+      "info": "Contemple as lindas paisagens.",
+      "url": "/images/carousel/america-sul.svg",
+      "banner_url": "/images/banner-continents/america-sul.svg",
+      "number_countries": 12,
+      "number_languages": 10,
+      "cities_in_the_top_100": [
+        {
+          "id": 1,
+          "name": "Argentina",
+          "flag_url": "/images/flags/199-argentina.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Buenos Aires",
+              "banner_url": "/images/banner-cities/buenos-aires.jpeg",
+              "ranking": 85
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Brasil",
+          "flag_url": "/images/flags/022-brazil.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Rio de Janeiro",
+              "banner_url": "/images/banner-cities/rio-janeiro.jpeg",
+              "ranking": 98
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Peru",
+          "flag_url": "/images/flags/189-peru.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Lima",
+              "banner_url": "/images/banner-cities/lima.jpeg",
+              "ranking": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ásia",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "info": "Lugares de grande mistério.",
+      "url": "/images/carousel/asia.svg",
+      "banner_url": "/images/banner-continents/asia.svg",
+      "number_countries": 49,
+      "number_languages": 2301,
+      "cities_in_the_top_100": [
+        {
+          "id": 1,
+          "name": "Vietnã",
+          "flag_url": "/images/flags/109-vietnam.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Cidade de Ho Chi Minh",
+              "banner_url": "/images/banner-cities/cidade-de-ho-chi-minh.jpeg",
+              "ranking": 48
+            },
+            {
+              "id": 2,
+              "name": "Da Nang",
+              "banner_url": "/images/banner-cities/da-nang.jpeg",
+              "ranking": 90
+            },
+            {
+              "id": 3,
+              "name": "Ha Noi",
+              "banner_url": "/images/banner-cities/ha-noi.jpeg",
+              "ranking": 52
+            },
+            {
+              "id": 4,
+              "name": "Ha Long",
+              "banner_url": "/images/banner-cities/ha-long.jpeg",
+              "ranking": 48
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "China",
+          "flag_url": "/images/flags/011-china.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Guilin",
+              "banner_url": "/images/banner-cities/guilin.jpeg",
+              "ranking": 80
+            },
+            {
+              "id": 2,
+              "name": "Zhuhai",
+              "banner_url": "/images/banner-cities/zhuhai.jpeg",
+              "ranking": 68
+            },
+            {
+              "id": 3,
+              "name": "Pequim",
+              "banner_url": "/images/banner-cities/pequim.jpeg",
+              "ranking": 58
+            },
+            {
+              "id": 4,
+              "name": "Xangai",
+              "banner_url": "/images/banner-cities/xangai.jpeg",
+              "ranking": 30
+            },
+            {
+              "id": 5,
+              "name": "Guangzhou",
+              "banner_url": "/images/banner-cities/guangzhou.jpeg",
+              "ranking": 21
+            },
+            {
+              "id": 6,
+              "name": "Shenzhen",
+              "banner_url": "/images/banner-cities/shenzhen.jpeg",
+              "ranking": 13
+            },
+            {
+              "id": 7,
+              "name": "Macau",
+              "banner_url": "/images/banner-cities/macau.jpeg",
+              "ranking": 4
+            },
+            {
+              "id": 8,
+              "name": "Hong Kong",
+              "banner_url": "/images/banner-cities/hong-kong.jpeg",
+              "ranking": 1
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Índia",
+          "flag_url": "/images/flags/055-india.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Bangalore",
+              "banner_url": "/images/banner-cities/bangalore.jpeg",
+              "ranking": 100
+            },
+            {
+              "id": 2,
+              "name": "Kolkatta",
+              "banner_url": "/images/banner-cities/kolkatta.jpeg",
+              "ranking": 76
+            },
+            {
+              "id": 3,
+              "name": "Jaipur",
+              "banner_url": "/images/banner-cities/jaipur.jpeg",
+              "ranking": 39
+            },
+            {
+              "id": 4,
+              "name": "Chennai",
+              "banner_url": "/images/banner-cities/chennai.jpeg",
+              "ranking": 36
+            },
+            {
+              "id": 5,
+              "name": "Agra",
+              "banner_url": "/images/banner-cities/agra.jpeg",
+              "ranking": 26
+            },
+            {
+              "id": 6,
+              "name": "Mumbai",
+              "banner_url": "/images/banner-cities/mumbai.jpeg",
+              "ranking": 14
+            },
+            {
+              "id": 7,
+              "name": "Délhi",
+              "banner_url": "/images/banner-cities/delhi.jpeg",
+              "ranking": 11
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Indonésia",
+          "flag_url": "/images/flags/185-indonesia.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Batam",
+              "banner_url": "/images/banner-cities/batam.jpeg",
+              "ranking": 91
+            },
+            {
+              "id": 2,
+              "name": "Jacarta",
+              "banner_url": "/images/banner-cities/jacarta.jpeg",
+              "ranking": 57
+            },
+            {
+              "id": 3,
+              "name": "Denpasar",
+              "banner_url": "/images/banner-cities/denpasar.jpeg",
+              "ranking": 32
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Japão",
+          "flag_url": "/images/flags/241-japan.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Chiba",
+              "banner_url": "/images/banner-cities/chiba.jpeg",
+              "ranking": 86
+            },
+            {
+              "id": 2,
+              "name": "Quioto",
+              "banner_url": "/images/banner-cities/quioto.jpeg",
+              "ranking": 67
+            },
+            {
+              "id": 3,
+              "name": "Osaka",
+              "banner_url": "/images/banner-cities/osaka.jpeg",
+              "ranking": 28
+            },
+            {
+              "id": 4,
+              "name": "Tóquio",
+              "banner_url": "/images/banner-cities/toquio.jpeg",
+              "ranking": 17
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Malásia",
+          "flag_url": "/images/flags/207-malaysia.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Ilha Penang",
+              "banner_url": "/images/banner-cities/ilha-penang.jpeg",
+              "ranking": 65
+            },
+            {
+              "id": 2,
+              "name": "Johor Bahru",
+              "banner_url": "/images/banner-cities/johor-bahru.jpeg",
+              "ranking": 38
+            },
+            {
+              "id": 3,
+              "name": "Kuala Lumpur",
+              "banner_url": "/images/banner-cities/kuala-lumpur.jpeg",
+              "ranking": 9
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Filipinas",
+          "flag_url": "/images/flags/187-philippines.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Cebu",
+              "banner_url": "/images/banner-cities/cebu.jpeg",
+              "ranking": 77
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Cingapura",
+          "flag_url": "/images/flags/132-singapore.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Cingapura",
+              "banner_url": "/images/banner-cities/cingapura.jpeg",
+              "ranking": 5
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Coreia do Sul",
+          "flag_url": "/images/flags/219-south korea.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Jeju",
+              "banner_url": "/images/banner-cities/jeju.jpeg",
+              "ranking": 95
+            },
+            {
+              "id": 2,
+              "name": "Seul",
+              "banner_url": "/images/banner-cities/seul.jpeg",
+              "ranking": 24
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Taiwan",
+          "flag_url": "/images/flags/183-taiwan.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Taipei",
+              "banner_url": "/images/banner-cities/taipei.jpeg",
+              "ranking": 19
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Tailândia",
+          "flag_url": "/images/flags/088-thailand.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Krabi",
+              "banner_url": "/images/banner-cities/krabi.jpeg",
+              "ranking": 99
+            },
+            {
+              "id": 2,
+              "name": "Chiang Mai",
+              "banner_url": "/images/banner-cities/chiang-mai.jpeg",
+              "ranking": 70
+            },
+            {
+              "id": 3,
+              "name": "Pattaya",
+              "banner_url": "/images/banner-cities/pattaya.jpeg",
+              "ranking": 18
+            },
+            {
+              "id": 4,
+              "name": "Phuket",
+              "banner_url": "/images/banner-cities/phuket.jpeg",
+              "ranking": 15
+            },
+            {
+              "id": 5,
+              "name": "Bangkok",
+              "banner_url": "/images/banner-cities/bangkok.jpeg",
+              "ranking": 2
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Arábia Saudita",
+          "flag_url": "/images/flags/204-saudi arabia.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Dammam",
+              "banner_url": "/images/banner-cities/dammam.jpeg",
+              "ranking": 64
+            },
+            {
+              "id": 2,
+              "name": "Riade",
+              "banner_url": "/images/banner-cities/riade.jpeg",
+              "ranking": 49
+            },
+            {
+              "id": 3,
+              "name": "Medina",
+              "banner_url": "/images/banner-cities/medina.jpeg",
+              "ranking": 23
+            },
+            {
+              "id": 4,
+              "name": "Meca",
+              "banner_url": "/images/banner-cities/meca.jpeg",
+              "ranking": 64
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Turquia",
+          "flag_url": "/images/flags/154-turkey.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Mugla",
+              "banner_url": "/images/banner-cities/mugla.jpeg",
+              "ranking": 84
+            },
+            {
+              "id": 2,
+              "name": "Antalya",
+              "banner_url": "/images/banner-cities/antalya.jpeg",
+              "ranking": 12
+            },
+            {
+              "id": 3,
+              "name": "Istambul",
+              "banner_url": "/images/banner-cities/istambul.jpeg",
+              "ranking": 10
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Emirados Árabes Unidos",
+          "flag_url": "/images/flags/195-united arab emirates.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Dubai",
+              "banner_url": "/images/banner-cities/dubai.jpeg",
+              "ranking": 7
+            },
+            {
+              "id": 2,
+              "name": "Abu Dhabi",
+              "banner_url": "/images/banner-cities/abu-dhabi.jpeg",
+              "ranking": 94
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Israel",
+          "flag_url": "/images/flags/203-israel.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Tel Aviv",
+              "banner_url": "/images/banner-cities/tel-aviv.jpeg",
+              "ranking": 79
+            },
+            {
+              "id": 2,
+              "name": "Jerusalém",
+              "banner_url": "/images/banner-cities/jerusalem.jpeg",
+              "ranking": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Oceania",
+      "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+      "info": "Diversão garantida, além das paisagens.",
+      "url": "/images/carousel/oceania.svg",
+      "banner_url": "/images/banner-continents/oceania.svg",
+      "number_countries": 14,
+      "number_languages": 1000,
+      "cities_in_the_top_100": [
+        {
+          "id": 1,
+          "name": "Nova Zelândia",
+          "flag_url": "/images/flags/215-new zealand.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Auckland",
+              "banner_url": "/images/banner-cities/auckland.jpeg",
+              "ranking": 78
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Austrália",
+          "flag_url": "/images/flags/143-australia.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Melbourne",
+              "banner_url": "/images/banner-cities/melbourne.jpeg",
+              "ranking": 73
+            },
+            {
+              "id": 2,
+              "name": "Sydney",
+              "banner_url": "/images/banner-cities/sydney.jpeg",
+              "ranking": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Europa",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "info": "O continente mais antigo.",
+      "url": "/images/carousel/europa.svg",
+      "banner_url": "/images/banner-continents/banner-europa.svg",
+      "number_countries": 50,
+      "number_languages": 24,
+      "cities_in_the_top_100": [
+        {
+          "id": 1,
+          "name": "Bélgica",
+          "flag_url": "/images/flags/209-belgium.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Bruxelas",
+              "banner_url": "/images/banner-cities/bruxelas.jpeg",
+              "ranking": 60
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Czechia",
+          "flag_url": "/images/flags/202-czech-republic.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Praga",
+              "banner_url": "/images/banner-cities/praga.jpeg",
+              "ranking": 22
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Dinamarca",
+          "flag_url": "/images/flags/191-denmark.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Copenhague",
+              "banner_url": "/images/banner-cities/copenhague.jpeg",
+              "ranking": 71
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "França",
+          "flag_url": "/images/flags/197-france.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Paris",
+              "banner_url": "/images/banner-cities/paris.jpeg",
+              "ranking": 6
+            },
+            {
+              "id": 2,
+              "name": "Nice",
+              "banner_url": "/images/banner-cities/nice.jpeg",
+              "ranking": 92
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Alemanha",
+          "flag_url": "/images/flags/208-germany.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Berlim",
+              "banner_url": "/images/banner-cities/berlim.jpeg",
+              "ranking": 41
+            },
+            {
+              "id": 2,
+              "name": "Munique",
+              "banner_url": "/images/banner-cities/munique.jpeg",
+              "ranking": 56
+            },
+            {
+              "id": 3,
+              "name": "Frankfurt",
+              "banner_url": "/images/banner-cities/frankfurt.jpeg",
+              "ranking": 87
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Grécia",
+          "flag_url": "/images/flags/192-greece.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Atenas",
+              "banner_url": "/images/banner-cities/atenas.jpeg",
+              "ranking": 43
+            },
+            {
+              "id": 2,
+              "name": "Heraklion",
+              "banner_url": "/images/banner-cities/heraklion.jpeg",
+              "ranking": 66
+            },
+            {
+              "id": 3,
+              "name": "Rodes",
+              "banner_url": "/images/banner-cities/rodes.jpeg",
+              "ranking": 97
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Hungria",
+          "flag_url": "/images/flags/210-hungary.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Budapeste",
+              "banner_url": "/images/banner-cities/budapeste.jpeg",
+              "ranking": 62
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Irlanda",
+          "flag_url": "/images/flags/193-ireland.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Dublin",
+              "banner_url": "/images/banner-cities/dublin.jpeg",
+              "ranking": 50
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Itália",
+          "flag_url": "/images/flags/263-italy.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Roma",
+              "banner_url": "/images/banner-cities/roma.jpeg",
+              "ranking": 16
+            },
+            {
+              "id": 2,
+              "name": "Milão",
+              "banner_url": "/images/banner-cities/milao.jpeg",
+              "ranking": 35
+            },
+            {
+              "id": 3,
+              "name": "Veneza",
+              "banner_url": "/images/banner-cities/veneza.jpeg",
+              "ranking": 46
+            },
+            {
+              "id": 4,
+              "name": "Florença",
+              "banner_url": "/images/banner-cities/florenca.jpeg",
+              "ranking": 51
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Holanda",
+          "flag_url": "/images/flags/077-netherlands.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Amsterdam",
+              "banner_url": "/images/banner-cities/amsterdam.jpeg",
+              "ranking": 25
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Polônia",
+          "flag_url": "/images/flags/165-poland.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Cracóvia",
+              "banner_url": "/images/banner-cities/cracovia.jpeg",
+              "ranking": 74
+            },
+            {
+              "id": 2,
+              "name": "Varsóvia",
+              "banner_url": "/images/banner-cities/varsovia.jpeg",
+              "ranking": 83
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Portugal",
+          "flag_url": "/images/flags/098-portugal.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Lisboa",
+              "banner_url": "/images/banner-cities/lisboa.jpeg",
+              "ranking": 63
+            },
+            {
+              "id": 2,
+              "name": "Porto",
+              "banner_url": "/images/banner-cities/porto.jpeg",
+              "ranking": 96
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Rússia",
+          "flag_url": "/images/flags/044-russia.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Moscou",
+              "banner_url": "/images/banner-cities/moscou.jpeg",
+              "ranking": 45
+            },
+            {
+              "id": 2,
+              "name": "São Petersburgo",
+              "banner_url": "/images/banner-cities/sao-petersburgo.jpeg",
+              "ranking": 59
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Espanha",
+          "flag_url": "/images/flags/230-spain.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Barcelona",
+              "banner_url": "/images/banner-cities/barcelona.jpeg",
+              "ranking": 33
+            },
+            {
+              "id": 2,
+              "name": "Madrid",
+              "banner_url": "/images/banner-cities/madrid.jpeg",
+              "ranking": 47
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Suécia",
+          "flag_url": "/images/flags/190-sweden.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Estocolmo",
+              "banner_url": "/images/banner-cities/estocolmo.jpeg",
+              "ranking": 88
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Reino Unido",
+          "flag_url": "/images/flags/110-united-kingdom.svg",
+          "cities": [
+            {
+              "id": 1,
+              "name": "Londres",
+              "banner_url": "/images/banner-cities/londres.jpeg",
+              "ranking": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
